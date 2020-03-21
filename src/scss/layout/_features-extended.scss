@@ -41,7 +41,7 @@
 	img,
     svg {
         width: 100%;
-        max-width: 296px;
+        max-width: 600px;
         height: auto;
         margin-left: auto;
 		margin-right: auto;
@@ -106,7 +106,7 @@
 				width: auto;
 
 				&.device-mockup {
-					max-width: 296px;
+					max-width: 400px;
 				}
 			}
 		}
